@@ -28,4 +28,5 @@ The game board in Book Scrabble consists of a 15x15 grid of squares, which inclu
 * [Meshi Mizrahi](https://github.com/MeshiMizrahi)
 * [Tal Sages](https://github.com/TalSages)
 
+mxmxmmx
 
